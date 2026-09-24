@@ -1,6 +1,6 @@
 # Input file
 file = open("Input.txt","w")
-file.write("Name: Sarang Kate")
+file.write("Name: Saish Mangale")
 file.write("\nDiv: SY-1")
 file.write("\nBatch: B")
 file.write("\nDepartment: CSE")
